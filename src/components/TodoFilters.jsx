@@ -1,3 +1,4 @@
+import React from "react";
 const OPTIONS = [
   ["all", "All", "all"],
   ["active", "Active", "completed"],
